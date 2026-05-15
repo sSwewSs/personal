@@ -43,7 +43,6 @@ My GitHub repositories serve as my playground for everything between hardware da
 When I’m not optimizing systems, I’m busy with digital music production or tracking crypto market dynamics using technical analysis.
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer&fontSize=20" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=SYSTEM_INTEGRATION_SUCCESSFUL" alt="Status" />
 </p>
