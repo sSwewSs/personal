@@ -1,4 +1,4 @@
-# 0x73537765775373 | Electronics Technician & Automation Enthusiast 🛠️⚡️
+# 0xsSwewSs | Electronics Technician & Automation Enthusiast 🛠️⚡️
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=From+Hardware+to+Code...;Industrial+Automation;Building+Functional+Tools;System+Optimization" alt="Typing SVG" />
